@@ -1,0 +1,26 @@
+{
+  "Historial": [
+    {
+       {
+        "2": {
+          "_id": "60a549d4fb9a9700154cb70c",
+          "precio": 300,
+          "id": 2,
+          "title": "Pizza",
+          "thumbnailUrl": "https://picsum.photos/id/10/600",
+          "__v": 0,
+          "cantidad": 1
+        },
+        "3": {
+          "_id": "60a549d4fb9a9700154cb70d",
+          "precio": 100,
+          "id": 3,
+          "title": "Agua",
+          "thumbnailUrl": "https://picsum.photos/id/20/600",
+          "__v": 0,
+          "cantidad": 1
+        }
+      },
+    }
+  ]
+}

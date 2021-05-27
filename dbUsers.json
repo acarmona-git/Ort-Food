@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "alan-jhx@hotmail.com",
+      "password": "asddsa123a"
+    },
+    {
+      "id": 2,
+      "usuario": "carmona.alan.1996@gmail.com",
+      "password": "asddsa123a"
+    }
+  ]
+}
